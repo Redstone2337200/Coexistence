@@ -6,7 +6,7 @@ This is a coexistent version of 1.19.10.03, and it is now possible to play both 
 
 ### Minecraft
 ###### Latest Coexistence Version
-Download link：https://www.123pan.com/s/hSr9-hYA5d
+Download link：https://www.123pan.com/s/hSr9-MYA5d
 
 ###### The latest Minecraft Beta
 Download link：https://www.123pan.com/s/hSr9-4YA5d
