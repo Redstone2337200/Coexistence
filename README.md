@@ -19,6 +19,3 @@ Author of the Coexistence Edition：Redstone233
 ###### klpbbs
 This is a resource site with a particularly large number of MC resources.
 Klpbbs official website：https://www.klpbbs.com/
-
-###### Chinese
-https://github.com/Redstone2337200/Coexistence/commit/b023f05a3b5ff817223d434866a3116af4d8f7b7
